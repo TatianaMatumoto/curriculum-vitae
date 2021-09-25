@@ -29,7 +29,7 @@
 
 #### Exemplo: 
 - Semifinalista no Jovens Inovadores - SICREDI (2020)
-- 8ª Posição na classificação dos trabalhos apresentados na subárea de Computação e Informática, na categoria Em Andamento no 20° Congresso Nacional de Iniciação Científica (CONIC) em 2020
+- 8ª Posição na classificação dos trabalhos apresentados na subárea de Computação e Informática, na categoria Em Andamento no 20° Congresso Nacional de Iniciação Científica (CONIC) - 2020
 
 ## Eventos
 
@@ -46,7 +46,7 @@
 - [Título] - [Instituição] ([Sigla-Instituição(caso houver)]) - ([Ano])
 
 #### Exemplo: 
-- Sistema e gestão de segurança da informação ISSO 27001 - Unifadra (2020)
+- Sistema e gestão de segurança da informação ISO 27001 - Unifadra (2020)
 - Feira das Profissões - Mercado de Trabalho para programadores web - Unifadra (2020)
 - 10° Edição do Encontro Científico da Alta Paulista - ECAP (2019)
 - Revolução 4.0: novas habilidades do perfil profissional e tecnologia - Unifadra (2019)
